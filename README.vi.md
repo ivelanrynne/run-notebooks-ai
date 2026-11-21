@@ -1,6 +1,6 @@
-&lt;p align=&quot;center&quot;&gt;
-  &lt;a href=&quot;./README.md&quot;&gt;🇺🇸 English&lt;/a&gt; | &lt;strong&gt;🇻🇳 Tiếng Việt&lt;/strong&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="./README.md">🇺🇸 English</a> | <strong>🇻🇳 Tiếng Việt</strong>
+</p>
 
 # Máy Chủ AI Ternary-Bonsai-2-27B Trên Cloud (Kaggle & Google Colab)
 
@@ -148,3 +148,7 @@ curl -s https://YOUR-TUNNEL-URL/v1/models \
 
 - Trọng số mô hình: `BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-v2-PQ2_0-MTP-GGUF` (Hugging Face)
 - Engine chạy suy luận: `PrismML-Eng/llama.cpp` (`prism-b10828-a153697`)
+
+<p align="center">
+  <a href="./README.md">🇺🇸 English</a> | <strong>🇻🇳 Tiếng Việt</strong>
+</p>

@@ -1,6 +1,6 @@
-&lt;p align=&quot;center&quot;&gt;
-  &lt;strong&gt;🇺🇸 English&lt;/strong&gt; | &lt;a href=&quot;./README.vi.md&quot;&gt;🇻🇳 Tiếng Việt&lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <strong>🇺🇸 English</strong> | <a href="./README.vi.md">🇻🇳 Tiếng Việt</a>
+</p>
 
 # Ternary-Bonsai-2-27B Cloud Inference Server (Kaggle & Google Colab)
 
@@ -148,3 +148,7 @@ curl -s https://YOUR-TUNNEL-URL/v1/models \
 
 - Model weights: `BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-v2-PQ2_0-MTP-GGUF` (Hugging Face)
 - Inference engine: `PrismML-Eng/llama.cpp` (`prism-b10828-a153697`)
+
+<p align="center">
+  <strong>🇺🇸 English</strong> | <a href="./README.vi.md">🇻🇳 Tiếng Việt</a>
+</p>
